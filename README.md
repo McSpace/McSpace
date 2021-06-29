@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andrey Vilchinsky
-- 👀 I’m interested in ...
+- 👀 I’m interested in Kubernetes, Python, C#, Nodejs, Google Cloud, Kafka, RabbitMQ, OpenCV, Tesseract, TensorFlow
 - 🌱 I’m currently learning ...
 - 💞️ I'm looking for cool teams and interesting projects (green energy, aerospace, medtech, AI, Computer Vision) to invest in or join.
 - 📫 Fell free to find me at:

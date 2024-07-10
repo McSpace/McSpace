@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Andrey Vilchinsky
-- 👀 I’m interested in Kubernetes, Python, C#, Nodejs, Google Cloud, Kafka, RabbitMQ, OpenCV, TensorFlow
-- 🧠 Prompts and finetuning engineering of LLMs Like OpenAI's GPT🔮, Anthropic; LangChain, LangGraph, Agents 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in OpenAI's GPT🔮, Anthropic; LangChain, LangGraph, Agents
+- Skills in: Kubernetes, Python, C#, Nodejs, Google Cloud, Kafka, RabbitMQ, OpenCV, TensorFlow 
 - ex-CTO of :
   - [anywayanyday.com](https://anywayanyday.com)
   - Visa2Home.ru

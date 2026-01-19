@@ -71,7 +71,7 @@ and prepares structured context for human handoff.
 **Personal Health Tracking & Analytics PWA**
 
 <img src="https://github.com/McSpace/McSpace/blob/main/memeter_screen.gif"
-     width="720"
+     width="360"
      alt="Health Meter – personal health tracking PWA" />
 
 A lightweight health-tracking web app focused on **metrics, trends, and habit visibility**.  

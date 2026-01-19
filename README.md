@@ -37,29 +37,30 @@ served as **CTO / Head of R&D**, and now focus on **AI-native products** where i
 ### 🧠 **AIWorlds**
 **Interactive Real-time Voice AI Story Worlds with Agents & Memory**
 
-A narrative platform where AI agents act as autonomous characters with memory, goals, and world state.
+[![AIWorlds Demo](aiworlds_screen.jpeg)](AiWorlds%20demo.mp4)
+
+A narrative platform where AI agents act as autonomous characters with memory, goals, and evolving world state.  
+Explores long-running simulations, voice interaction, and non-anthropocentric AI behavior.
 
 **Tech:**  
 Agents · GraphRAG · Story APIs · Image generation · LiveKit Agents · WebRTC · STT / TTS · Python · FastAPI · Next.js
 
-🔗 https://github.com/McSpace/lk-agent 
+🔗 https://github.com/McSpace/lk-agent  
 🔗 https://aiworlds.online  
-
-> Experimenting with non-anthropocentric AI behavior and long-running agent simulations. Used as a foundation for conversational agents, demos, and narrative-driven experiences.
 
 ---
 
 ### 📞 **TryToSellMe**
 **AI Voice Lead Qualification Demo**
 
-A demo project showing how **voice AI agents** can qualify inbound leads using  
-**DISC / Big Five personality models**, preparing structured context for human handoff.
+<img src="https://github.com/McSpace/McSpace/blob/main/trytosellme.gif"
+     width="720"
+     alt="TryToSellMe – AI Voice Lead Qualification Demo" />
+
+A demo project showing how **voice AI agents** qualify inbound leads using  
+**DISC / Big Five personality models**, adapt conversation strategy, and prepare structured context for human handoff.
 
 🔗 https://trytosellme.com  
-
-> Built as a practical showcase of AI agents in sales & customer interaction.
-<img src="https://github.com/McSpace/McSpace/blob/main/trytosellme.gif"
-     width="720" />
 
 ---
 

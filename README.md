@@ -34,31 +34,18 @@ served as **CTO / Head of R&D**, and now focus on **AI-native products** where i
 
 ## 🚀 Selected Open-Source & Pet Projects
 
-### 🎙️ **LK-Agent**
-**Real-time Voice AI Agent Platform**
-
-Voice-first AI agents built with **LiveKit**, supporting real-time conversation, tools, and external APIs.
-
-**Tech:**  
-LiveKit Agents · WebRTC · STT / TTS · Python · FastAPI · Next.js
-
-🔗 https://github.com/McSpace/lk-agent  
-
-> Used as a foundation for conversational agents, demos, and narrative-driven experiences.
-
----
-
 ### 🧠 **AIWorlds**
-**Interactive AI Story Worlds with Agents & Memory**
+**Interactive Real-time Voice AI Story Worlds with Agents & Memory**
 
 A narrative platform where AI agents act as autonomous characters with memory, goals, and world state.
 
 **Tech:**  
-Agents · GraphRAG · Story APIs · Image generation · Voice
+Agents · GraphRAG · Story APIs · Image generation · LiveKit Agents · WebRTC · STT / TTS · Python · FastAPI · Next.js
 
+🔗 https://github.com/McSpace/lk-agent 
 🔗 https://aiworlds.online  
 
-> Experimenting with non-anthropocentric AI behavior and long-running agent simulations.
+> Experimenting with non-anthropocentric AI behavior and long-running agent simulations. Used as a foundation for conversational agents, demos, and narrative-driven experiences.
 
 ---
 
@@ -71,6 +58,8 @@ A demo project showing how **voice AI agents** can qualify inbound leads using
 🔗 https://trytosellme.com  
 
 > Built as a practical showcase of AI agents in sales & customer interaction.
+<img src="https://github.com/McSpace/McSpace/blob/main/trytosellme.gif"
+     width="720" />
 
 ---
 

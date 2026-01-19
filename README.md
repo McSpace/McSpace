@@ -37,10 +37,12 @@ served as **CTO / Head of R&D**, and now focus on **AI-native products** where i
 ### 🧠 **AIWorlds**
 **Interactive Real-time Voice AI Story Worlds with Agents & Memory**
 
-[![AIWorlds Demo](aiworlds_screen.jpeg)](AiWorlds%20demo.mp4)
+<img src="https://github.com/McSpace/McSpace/blob/main/AiWorlds%20demo.gif"
+     width="720"
+     alt="AIWorlds – real-time voice AI agents with memory" />
 
 A narrative platform where AI agents act as autonomous characters with memory, goals, and evolving world state.  
-Explores long-running simulations, voice interaction, and non-anthropocentric AI behavior.
+Focuses on long-running simulations, voice interaction, and non-anthropocentric AI behavior.
 
 **Tech:**  
 Agents · GraphRAG · Story APIs · Image generation · LiveKit Agents · WebRTC · STT / TTS · Python · FastAPI · Next.js
@@ -57,10 +59,29 @@ Agents · GraphRAG · Story APIs · Image generation · LiveKit Agents · WebRTC
      width="720"
      alt="TryToSellMe – AI Voice Lead Qualification Demo" />
 
-A demo project showing how **voice AI agents** qualify inbound leads using  
-**DISC / Big Five personality models**, adapt conversation strategy, and prepare structured context for human handoff.
+Voice AI agent that qualifies inbound leads using  
+**DISC / Big Five personality models**, adapts conversation strategy,  
+and prepares structured context for human handoff.
 
 🔗 https://trytosellme.com  
+
+---
+
+### 🩺 **Health Meter**
+**Personal Health Tracking & Analytics PWA**
+
+<img src="https://github.com/McSpace/McSpace/blob/main/memeter_screen.gif"
+     width="720"
+     alt="Health Meter – personal health tracking PWA" />
+
+A lightweight health-tracking web app focused on **metrics, trends, and habit visibility**.  
+Built as an experiment in clean UX, offline-first PWA design, and data-driven personal health insights.
+
+**Tech:**  
+PWA · React · TypeScript · Service Workers · Charts · API-first backend
+
+🔗 https://github.com/McSpace/meter-pwa  
+🔗 http://meter-pwa-production.up.railway.app/  
 
 ---
 
